@@ -1,0 +1,44 @@
+.header{
+    height: 6em;
+    padding: 3em; 
+    font-size: 2em; 
+    border: solid 4px #3C9553;
+    background-image: url(/assets/imgs/pexels-sharon-wahrmund-237779.jpg);
+    background-size:cover;
+    background-position:center;
+ }
+ body {
+    background: #0367A6;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #D7C7D1;
+    
+  }
+
+.p{
+font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.tabla {
+    width: 80%;
+    margin-left: 0.5%;
+    margin-top: 2%;
+}
+.tabla td {
+    width: 30%;
+    padding: 0,5em;
+}
+.tabla img{
+    width: 60%;
+    border: solid 4px #3C9553;
+    margin-top: 2%;
+}
+
+.footer{
+    height: 40px;
+    line-height: 40px;
+    background-color: #3C9553;
+    color: #D7C7D1;
+    text-align: center;
+    font-weight: 900;
+    margin-top: 1%;
+    }
